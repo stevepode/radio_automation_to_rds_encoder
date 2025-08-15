@@ -4,6 +4,7 @@
 # ---
 # Stefano Podestà - 30/03/2021
 # Ver. 1.0
+MIT License
 # ---
 
 import threading  # Allows running functions in parallel or scheduled
