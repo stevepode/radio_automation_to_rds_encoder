@@ -1,5 +1,5 @@
 # --- 
-# Python script to send music metadata from DJ Pro Classic radio automation by Axel Technology to an Orban RDS Encoder, displaying song information on listeners’ car radios.
+# Python script to send music metadata from DJ Pro Classic radio automation by Axel Technology to an Orban RDS Encoder, displaying song information on listeners car radios.
 # Read Dj Pro Classic XML and send RT string to Orban via telnet.
 # ---
 # Stefano Podestà - 30/03/2021
